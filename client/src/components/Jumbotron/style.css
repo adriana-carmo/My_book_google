@@ -1,0 +1,13 @@
+.jumbotron {
+  padding: 100px;
+}
+
+.jumbotron {
+  background-color: #b1d6f5;
+  background-image: url("../../img/book-quotes.jpg");
+  background-size: cover;
+  height: 485px;
+}
+
+
+
