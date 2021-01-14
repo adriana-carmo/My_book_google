@@ -23,7 +23,7 @@ http://localhost:3000
 
 ### Images of application
 Home![Home](client/src/img/home.png)
-List of books ![List](client/src/img/search.png)
+List of books![List](client/src/img/Search.png)
 Saved page ![Save page](client/src/img/Saved.png)
 
 ### Technology
